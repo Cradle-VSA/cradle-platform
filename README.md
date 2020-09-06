@@ -8,16 +8,8 @@ reduce preventable maternal deaths in Ugandan villages.
 
 <img src="readme-img/screenshot.png" width="600px"/>
 
-## Sites and Servers
-
-* Issue tracking is managed via JIRA at: https://icradle.atlassian.net
-* Build/Test server is hosted by SFU at: https://cmpt373-lockdown.cs.surrey.sfu.ca
-* Production server is hosed on Azure at: https://cradle.eastus.cloudapp.azure.com
 
 ## Setup Instructions
-
-> Checkout the [wiki](https://csil-git1.cs.surrey.sfu.ca/415-cradle/cradle-platform/-/wikis/home) 
-> for alternative ways to setup your development environment.
 
 ### Requirements
 
