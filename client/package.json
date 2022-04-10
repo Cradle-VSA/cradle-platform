@@ -64,7 +64,7 @@
     "jquery": "^3.4.1",
     "jwt-decode": "^2.2.0",
     "material-table": "^1.50.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "mui-datatables": "3.0.1",
     "react": "16.9.0",
     "react-chartjs-2": "^2.8.0",
@@ -86,7 +86,7 @@
     "yup": "^0.27.0"
   },
   "resolutions": {
-    "moment": "2.24.0"
+    "moment": "2.29.2"
   },
   "browserslist": [
     ">0.2%",
